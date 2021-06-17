@@ -10,4 +10,3 @@ required aditional modules
 
 Code has been commented as best as i can. An Engineer by training and passion so excuse any 'layman' expressions therein.
 The second branch is a little bit more complex. It is the initial code adapted for a Keithley 6485 picoamperemeter to measure optical density.
-Suggestions on error 113 on the Keithley when the board is powered off are welcome.
