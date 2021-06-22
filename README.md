@@ -8,5 +8,7 @@ required aditional modules
 -time 
 -isticktoit or equivalent to enable libcomposites kernel module.
 
-Code has been commented as best as i can. An Engineer by training and passion so excuse any 'layman' expressions therein.
-The second branch is a little bit more complex. It is the initial code adapted for a Keithley 6485 picoamperemeter to measure optical density.
+Code has been commented as best as i can.The second branch is a little bit more complex. It is the initial code adapted for a Keithley 6485 picoamperemeter to measure optical density.
+
+ An Engineer by training and passion.
+ 
